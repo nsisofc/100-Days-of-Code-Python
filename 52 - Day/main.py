@@ -5,9 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-EMAIL = "python.email.8050523394@gmail.com"
-PASSWORD = "9534857622"
-MENTOR_USERNAME = "gautam.adani"
+EMAIL = "lecape4347@avabots.com"
+PASSWORD = "8280fda02e"
+MENTOR_USERNAME = "method_plug.pt"
 INSTAGRAM_URL = "https://www.instagram.com/"
 chrome_driver_path = "c:/Development/chromedriver.exe"
 
